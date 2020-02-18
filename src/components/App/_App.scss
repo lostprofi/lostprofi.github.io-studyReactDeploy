@@ -1,0 +1,30 @@
+.app {
+    font-family: Montserrat-Regular sans-serif;
+}
+
+.foursquare{
+ 
+    &__title{
+        font-family: Montserrat-Regular;
+        font-size: 22px;
+        font-weight: 300;
+        letter-spacing: 3.4px;
+        color: rgb(74,74,74);
+        display: none;
+        text-align: center;
+        margin: 50px 0 20px 0;
+        
+        &_visible{
+            display: block;
+        }
+    }
+    
+    &__search-results{
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: space-around;
+        
+    }   
+    
+}
+

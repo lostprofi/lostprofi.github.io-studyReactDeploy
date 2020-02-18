@@ -1,0 +1,22 @@
+
+.venue__search-result{
+        
+        font-family: Montserrat-Regular;
+        font-size: 18px;
+        height: 260px;
+        padding: 20px;
+        box-shadow: 0 2px 4px 0 rgba(0,0,0,0.5);
+        margin: 20px;
+        
+        >h1{
+            font-size: 20px;
+            font-weight: 600;
+            letter-spacing: 0.9px;
+            color: rgb(39,183,193);
+        }
+    
+        > p{
+            padding: 5px 0;
+            color: rgb(74,74,74);
+        }
+    }

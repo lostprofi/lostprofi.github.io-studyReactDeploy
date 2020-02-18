@@ -1,0 +1,43 @@
+.weather{
+    display: flex;
+    flex-flow: column nowrap;
+    align-items: center;
+    font-family: Montserrat-Regular;
+    font-size: 18px;
+    
+    &__header{
+        margin: 20px 0;
+        
+    }
+    
+    &__title{
+        
+        font-size: 30px;
+        font-weight: 600;
+        letter-spacing: 0.9px;
+        color: rgb(39,183,193);
+    }
+    
+    &__subtitle{
+        
+        margin-top: 25px;
+        font-size: 22px;
+        font-weight: 300;
+        letter-spacing: 3.4px;
+        color: rgb(74,74,74);
+    }
+    
+    
+    &__search-result{
+        
+        
+        height: 260px;
+        padding: 20px;
+        box-shadow: 0 2px 4px 0 rgba(0,0,0,0.5);
+        
+        >p{
+            padding: 5px;
+            color: rgb(74,74,74);
+        }
+    }
+}

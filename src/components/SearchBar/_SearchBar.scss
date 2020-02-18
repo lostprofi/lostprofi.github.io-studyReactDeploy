@@ -1,0 +1,57 @@
+.SearchBar {
+    padding: 150px 0;
+    background: url(search_form_background.jpg);
+    background-size: cover;
+    height: auto;
+    
+    
+    &__title{
+        text-align: center;
+        font-family: Montserrat-Regular;
+        font-size: 64px;
+        font-weight: 300;
+        color: rgb(255,255,255);
+        
+    }
+    
+    &__searchInput {
+        width: 286px;
+        height: 46px;
+        border: solid 3px rgb(255,255,255);
+        background-color: transparent;
+        font-family: Source-Sans-Pro-Regular;
+        color: rgb(255,255,255);
+        font-size: 18px;
+        opacity: 0.73;
+        margin-right: 5px;
+   
+     
+    }
+    
+    &__searchSubmit {
+        width: 140px;
+        height: 46px;
+        border-radius: 4px;
+        background-color: cadetblue;
+        padding: 1px 6px;
+        text-align: center;
+        font-family: Source-Sans-Pro-Regular;
+        font-size: 18px;
+        font-weight: 600;
+        line-height: 0.94;
+        letter-spacing: 0.5px;
+        color: rgb(255,255,255);
+        cursor: pointer;
+    }   
+    
+}
+
+
+
+
+.wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+}
