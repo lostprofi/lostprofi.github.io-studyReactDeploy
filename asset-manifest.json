@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.3ce95e95.chunk.css",
-    "main.js": "/static/js/main.91807b86.chunk.js",
-    "main.js.map": "/static/js/main.91807b86.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.a7a32bf1.js",
-    "runtime-main.js.map": "/static/js/runtime-main.a7a32bf1.js.map",
-    "static/js/2.42846b99.chunk.js": "/static/js/2.42846b99.chunk.js",
-    "static/js/2.42846b99.chunk.js.map": "/static/js/2.42846b99.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.7fe08ab330a605cf779acff7a083588f.js": "/precache-manifest.7fe08ab330a605cf779acff7a083588f.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.3ce95e95.chunk.css.map": "/static/css/main.3ce95e95.chunk.css.map",
-    "static/js/2.42846b99.chunk.js.LICENSE.txt": "/static/js/2.42846b99.chunk.js.LICENSE.txt",
-    "static/media/_reset.scss": "/static/media/WorkSans-Regular.740b8e9a.ttf",
-    "static/media/logo.svg": "/static/media/logo.6df572c6.svg",
-    "static/media/_SearchBar.scss": "/static/media/search_form_background.74e6a8b0.jpg"
+    "main.css": "/studyReactDeploy/static/css/main.eceac7dc.chunk.css",
+    "main.js": "/studyReactDeploy/static/js/main.f70af43b.chunk.js",
+    "main.js.map": "/studyReactDeploy/static/js/main.f70af43b.chunk.js.map",
+    "runtime-main.js": "/studyReactDeploy/static/js/runtime-main.ee471b41.js",
+    "runtime-main.js.map": "/studyReactDeploy/static/js/runtime-main.ee471b41.js.map",
+    "static/js/2.42846b99.chunk.js": "/studyReactDeploy/static/js/2.42846b99.chunk.js",
+    "static/js/2.42846b99.chunk.js.map": "/studyReactDeploy/static/js/2.42846b99.chunk.js.map",
+    "index.html": "/studyReactDeploy/index.html",
+    "precache-manifest.07963d457a0108ac70239862c1a11c1b.js": "/studyReactDeploy/precache-manifest.07963d457a0108ac70239862c1a11c1b.js",
+    "service-worker.js": "/studyReactDeploy/service-worker.js",
+    "static/css/main.eceac7dc.chunk.css.map": "/studyReactDeploy/static/css/main.eceac7dc.chunk.css.map",
+    "static/js/2.42846b99.chunk.js.LICENSE.txt": "/studyReactDeploy/static/js/2.42846b99.chunk.js.LICENSE.txt",
+    "static/media/_reset.scss": "/studyReactDeploy/static/media/WorkSans-Regular.740b8e9a.ttf",
+    "static/media/logo.svg": "/studyReactDeploy/static/media/logo.6df572c6.svg",
+    "static/media/_SearchBar.scss": "/studyReactDeploy/static/media/search_form_background.74e6a8b0.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.a7a32bf1.js",
+    "static/js/runtime-main.ee471b41.js",
     "static/js/2.42846b99.chunk.js",
-    "static/css/main.3ce95e95.chunk.css",
-    "static/js/main.91807b86.chunk.js"
+    "static/css/main.eceac7dc.chunk.css",
+    "static/js/main.f70af43b.chunk.js"
   ]
 }
