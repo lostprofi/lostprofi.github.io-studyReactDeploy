@@ -2,9 +2,9 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import logo from './logo.svg';
 import './_App.scss';
-import {SearchBar} from '../SearchBar/SearchBar';
-import {Weather} from '../Weather/Weather';
-import {Venue} from '../Venue/Venue';
+import {SearchBar} from './../SearchBar/SearchBar';
+import {Weather} from './../Weather/Weather';
+import {Venue} from './../Venue/Venue';
 
 
 

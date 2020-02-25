@@ -2,7 +2,7 @@
   "name": "wanderlast-react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://lostprofi.github.io-studyReactDeploy",
+  "homepage": "https://lostprofi.github/studyReactDeploy",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.4.0",
